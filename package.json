@@ -1,0 +1,11 @@
+{
+  "name": "xml-tree-explorer",
+  "version": "1.0.0",
+  "description": "A browser-based XML explorer that parses local XML, searches element names and text, and displays indexed element paths.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
